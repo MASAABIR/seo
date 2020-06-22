@@ -1,0 +1,137 @@
+*{paddin:0px;margin: 0px;}
+img{width: 100% }
+footer{background: #333;color: white;margin: auto;text-align: center;
+    margin-top: 84px;}
+.header{}
+nav{
+    background: #e8d5e0eb;
+    border: 2px solid #908282ba;
+    overflow: hidden;
+    padding: 13px 0px;
+    border-bottom: 3px solid #ffdc1c;
+    }
+#mainmanu{list-style: none;float: right;}
+#mainmanu li{display: inline-block; }
+#mainmanu li a{text-decoration: none;text-transform: uppercase;
+    padding: 15px 20px;font-size: 18px;color: #444 ;transition: all 1s}
+
+#menuinnor{
+              float: right;
+              width: 698px;
+              margin-top: 25px;
+              }
+
+#mainmanu li a:hover{background: teal;
+                    padding: 10px;color: white;
+                    border-bottom: 3px solid orange}
+
+#logo{
+    float: left;
+    width: 343px;
+    border: 2px solid #67d02e;
+    box-shadow: 0px 6px 20px 0px black;
+    }
+
+    .manudiv{width: 1170px;margin: auto;overflow: hidden;}
+#main{width: 335px;
+    border: 3px solid #252529;
+    background: #ffff;
+    padding: 15px;
+    border-radius: 7px;
+    margin: 8px;
+    display: inline-block;
+    overflow: hidden;
+    transition: all 1s;
+    color: red;}
+    #manu{width: 1170px;margin: auto;padding: 20px 0px}
+
+#main:hover{background: transparent;color: white;transform:translateY(-10px); }
+div#abir{margin: auto;width: 1170px; }
+
+div h2{font-family: arial black;
+    font-size: 22px;
+    padding-bottom: 6px;}
+
+body{ font-family: arial;
+    font-size: 12px}
+
+h2,h3,{font-family: arial black;
+    font-size: 2px}
+
+     #headding {color: red;
+    text-align: center;
+    font-family: arial black;
+    font-size: 40px;
+    padding: 2px;
+    margin-bottom: 36px;}
+              span{color: white}
+
+              .allblock{width: 1170px;margin: auto;padding: 20px 0px}
+   .header{color: red;
+    font-size: 35px;
+    text-align: center;
+    font-family: arial black;
+    margin-top: 21px;
+    margin-bottom: 22px;}
+
+        span{color: white}
+.habib{
+    background: #2c2d2cf0;
+    padding: 87px;
+    margin-top: 0px;
+    overflow: hidden;
+    display: block;
+    border-top: 2px solid #b9a2a2;
+    }
+
+   #dkd{width: 335px;
+    border: 3px solid #252529;
+    background: #ffff;
+    padding: 15px;
+    border-radius: 7px;
+    margin: 8px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+    #dkd:hover{background: transparent;color: black;transition: all 1s;transform: rotate(360deg);}
+
+             .fast{color: black}
+         .aboutimag{width: 400px;}
+
+                            #aboutright{width: 700px;float: right;}
+
+                             #aboutright,.aboutimag{display:inline-block; }
+
+                         #aboutright h2{         border-bottom: 2px solid;
+    padding-bottom: 0px;
+    padding-top: 17px;
+    font-family: arial black;
+    font-size: 25px;
+}
+                          .praghraph ,p{
+    padding-top: 17px;
+    font-size: 15px;
+    font-family: arial;
+    color: #695f5f;
+    }
+                          
+                          #tamplte{
+                                    height: 443px;
+                                    background: 
+                                    linear-gradient(#00000050,#00000050),
+                                    linear-gradient(#00000050,#00000050), 
+                                    url(file:///C:/Users/User/Desktop/abir1.jpeg);
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+    }
+
+
+          #tamplte h2{text-align: center;  font-family: arial black;
+            font-size: 50px;
+            line-height: 63px;
+            margin-top: 152px;
+            position: absolute;
+            left: 21px;
+            color: aliceblue;
+            text-shadow: -1px 0px 20px #DF0, 0 0 47px #181821, 0 0 8px #29295B;}                           
